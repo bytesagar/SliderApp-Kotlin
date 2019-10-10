@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Slide App</string>
+    <string name="button_reset_hard">Reset</string>
+    <string name="text">0</string>
+</resources>
